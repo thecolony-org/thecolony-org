@@ -3,5 +3,5 @@
 - [x] We are changing the way IT recruitment is hired.
 - [x] The best talent for the best opportunity.
 
-> Can't get a job? We help you.
+> _Can't get a job? We help you._
 📫 hello@thecolony.me
